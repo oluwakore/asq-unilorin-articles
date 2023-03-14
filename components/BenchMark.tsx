@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 function BenchMark() {
   return ( 
-    <article className="px-5 pb-28 text-xl">
+    <article className="px-5 pb-28 text-lg md:text-xl">
     {/* <div>posting : {slug}</div> */}
     <section className='space-y-2 border border-[#1809ff] text-white '>
    <div className='relative min-h-56 flex flex-col md:flex-between'>
@@ -11,12 +11,12 @@ function BenchMark() {
 <Image
 className='object-cover object-center mx-auto'
 src="https://shopperintelligence.com/wp-content/uploads/2022/11/Picture-1.webp"
-alt="benchmarking"
+alt="benchmarking" 
 fill
-/>
+/>  
 </div>
 
-<section className='p-5 bg-[#1809ff] w-full'>
+<section className="p-5 bg-[#1809ff] w-full font-['Poppins']">
   <div>
     <div>
       <h1 className='text-4xl font-extrabold'>
@@ -216,6 +216,7 @@ in the company.
 }
 
 export default BenchMark
+
 
 
 

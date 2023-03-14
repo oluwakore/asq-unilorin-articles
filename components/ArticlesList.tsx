@@ -11,7 +11,7 @@ function ArticlesList({articles}: Props) {
     <div>
       <hr className="border-[#1809ff] mb-10" />
 
-      <div className="grid grid-cols-1 md:grid-cols-2 px-10 gap-x-10 gap-y-16 pb-24" >
+      <div className="grid grid-cols-1 md:grid-cols-2 px-10 gap-x-10 gap-y-16 pb-24 font-['Poppins']" >
         {
           articles.map(article => (
             <ClientSideRoute  key={article.number} route={`/${article.slug}`}>
@@ -19,7 +19,7 @@ function ArticlesList({articles}: Props) {
               <div className=" relative w-full h-80 drop-shadow-xl group-hover:scale-105 transition-transform duration-200 ease-out">
                 <Image 
                 className="object-cover object-center lg:object-center"
-                src={article.coverImage}
+                src={article.coverImage} 
                 alt={article.title}
                 fill
                 />
