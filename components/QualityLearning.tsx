@@ -184,7 +184,7 @@ documentation and establishes measurable objectives against it. The Do implement
       <div className='mt-3'>
       <p className='leading-loose '>Brower, M.J. &#40;1994&#41; The paradigim shifts required to apply TQM and teams in higher education, in Readings in Total Quality Management &#40;ed. H. Costin&#41;, The Dryden Press, New York, USA.</p>
         <p className='leading-loose '> Jens, J.H., Kai, K., and Gopal, K.K. &#40;2007&#41;. Fundamentals of Total Quality Management. Taylor &#38; Francis Group, New York and London.</p>
-        <p className='leading-loose '> Levett-Jones, T. L. &#40;2007&#41;. Facilitating reflective practice and self-assessment of competence through the use of narratives. Nurse Education in Practice, 7&#40;2&#41;, 112–119. https://doi.org/10.1016/j.nepr.2006.10.002</p>
+        <p className='leading-loose break-words'> Levett-Jones, T. L. &#40;2007&#41;. Facilitating reflective practice and self-assessment of competence through the use of narratives. Nurse Education in Practice, 7&#40;2&#41;, 112–119. https://doi.org/10.1016/j.nepr.2006.10.002</p>
       </div>
     </section>
    </article>
