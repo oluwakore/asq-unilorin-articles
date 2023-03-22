@@ -15,7 +15,19 @@ const list = [
     categories: [
       {title: "Productivity"},
     ]
-  }
+  },
+  {
+    number: 1,
+    author: "ASQ Unilorin",
+    coverImage: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto/v1511848673/1511848671.jpg",
+    title: "Quality Learning",
+    description: "Uncover how to learn in the most efficient and effective way through quality learning",
+    slug: "quality-learning",
+    date: "March 21, 2023",
+    categories: [
+      {title: "Improvement"},
+    ]
+  },
   ]
 const Home: NextPage = () => {
 
