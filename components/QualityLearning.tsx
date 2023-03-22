@@ -26,7 +26,7 @@ fill
       <p>
       March 21, 2023
       </p>
-       <div className="ml-2 bg-[#fff]  text-black px-2.5 py-1 flex items-center rounded-full text-center"><p className='text-sm'>7 min read </p></div>
+       <div className="ml-2 bg-[#fff]  text-black px-2.5 py-1 flex items-center rounded-full text-center"><p className='text-sm'>5 min read </p></div>
       </div>
     </div>
   </div>
